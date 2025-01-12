@@ -21,7 +21,6 @@ public class Ovrld {
     public static void main(String[] args) {
         Ovrld s1 = new Ovrld(1, 7, "Ramu");
         Ovrld s2 = new Ovrld(7, "Ramu");
-
         s1.display();
         s2.display();
     }
