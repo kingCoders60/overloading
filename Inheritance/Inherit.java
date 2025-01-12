@@ -1,3 +1,4 @@
+                //Multiple Inheritance it is..in normal Inheritance we use extends only.
 interface A {
     default void methodA() {
         System.out.println("This is from interface A");
